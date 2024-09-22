@@ -1,5 +1,3 @@
-
-
 # Cos'è un attacco OSINT ?
 
 L'**OSINT** ([*Open Source Intelligence*](https://it.wikipedia.org/wiki/Open_Source_Intelligence)) è un attacco in cui un malintenzionato effettua una ricognizione delle informazioni online e sui social media. Si tratta di una tecnica di raccolta di informazioni pubblicamente disponibili su Internet, inclusi **social** media, **siti** web, **database** pubblici, **articoli** di notizie e **forum**, per ottenere dettagli su un obiettivo.
@@ -24,4 +22,5 @@ L'**OSINT** ([*Open Source Intelligence*](https://it.wikipedia.org/wiki/Open_Sou
 
 - **Doxxing:** Pubblicare informazioni private o personali di qualcuno online senza il suo consenso, al fine di metterlo in difficoltà o minacciare la sua sicurezza.
 
-> **NOTA:** Per proteggersi da questo tipo di attacchi, è importante **limitare le informazioni pubblicamente visibili sui social**, usare impostazioni di privacy adeguate e essere cauti nel condividere dati personali online.
+> ![NOTE]
+> Per proteggersi da questo tipo di attacchi, è importante **limitare le informazioni pubblicamente visibili sui social**, usare impostazioni di privacy adeguate e essere cauti nel condividere dati personali online.

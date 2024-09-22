@@ -1,5 +1,3 @@
-
-
 # OSINT - Ricerca avanzata su browser
 
 Di seguito verranno mostrate una serie di ricerche (input) da effettuare sul browser per cercare informazioni specifiche sul web.
@@ -146,6 +144,7 @@ Di seguito verranno mostrate una serie di ricerche (input) da effettuare sul bro
 
 <br>
 
+> [!NOTE]
 > <h2> !! Attendi l'aggiunta di altri esempi di ricerca avanzata !! </h2>
 
 <br>
@@ -166,4 +165,5 @@ Di seguito verranno mostrate una serie di ricerche (input) da effettuare sul bro
     "Phishing" "Attacco ASL" -dati -sanitari site:hosting.aruba.it filetype:pdf 2020..2023
     ```
 
-> **NOTA:** Si prega di notare che questi sono semplici esempi a scopo dimostrativo, perciò non è sicuro che tale ricerca restituisca dei risultati, o almeno quelli che ci si aspetta di trovare.
+> [!NOTE]
+> Si prega di notare che questi sono semplici esempi a scopo dimostrativo, perciò non è sicuro che tale ricerca restituisca dei risultati, o almeno quelli che ci si aspetta di trovare.

@@ -145,7 +145,7 @@ Di seguito verranno mostrate una serie di ricerche (input) da effettuare sul bro
 <br>
 
 > [!NOTE]
-> <h2> !! Attendi l'aggiunta di altri esempi di ricerca avanzata !! </h2>
+> !! Attendi l'aggiunta di altri esempi di ricerca avanzata !!
 
 <br>
 

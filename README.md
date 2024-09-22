@@ -22,5 +22,5 @@ L'**OSINT** ([*Open Source Intelligence*](https://it.wikipedia.org/wiki/Open_Sou
 
 - **Doxxing:** Pubblicare informazioni private o personali di qualcuno online senza il suo consenso, al fine di metterlo in difficoltà o minacciare la sua sicurezza.
 
-> ![NOTE]
+> [!NOTE]
 > Per proteggersi da questo tipo di attacchi, è importante **limitare le informazioni pubblicamente visibili sui social**, usare impostazioni di privacy adeguate e essere cauti nel condividere dati personali online.
